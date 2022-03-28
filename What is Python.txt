@@ -1,0 +1,28 @@
+1.Python is open sourse software language
+2.Python is an interpreter language
+2.1  Python is called interpreter language because it does not compile
+2.2 It does not compile means it does not create pre memory
+2.3 does not create pre memory will be created on run time
+2.4 creating meeory on the run time is called as dynamic memeory allocation
+2.5 anything that is dynamic alloted is wht we called as scripting language
+2.6 scripting language can also be interpreter language
+
+3. memory management in python is carried out by python virtual memory
+3.1 python virtual memory is called as PRIVATE HEAF
+
+4. python is unstructured programming language
+4.1 unstructured programming language means writing the code without any template to be follow
+
+5. python is automated garbage collection
+5.1 automatic garbage colllection means variable that is not in use will be removed from the memory
+
+6.python is case sensative
+
+7. python is indent specific
+
+8. python is sequentialprogram execution
+8.1 means itr will read character by character or line by line
+8.2 tjis line by line execution is happening because of the concept of GIL
+8.3 GIL means global interpreter lock
+8.4 means when one line gets executed next line will be locked
+8.5 because of this machanism python will be slowness comparing to other language
